@@ -59,40 +59,54 @@ Firebase Firestore podatkovno bazo sem uporabila v demo aplikaciji, ki se nahaja
 Na spodnji sliki je prikazano, kako sem uporabila to bazo, poleg tega sem predstavila tudi statistiko in uporabo podatkovne baze v moji aplikaciji.
 
 ### Phone book naloga (demo aplikacija)
+
 **Zaslon, kje se pokažejo vse podatke iz bazo**
+
 ![img.png](img.png)
 **Zaslona, kje se pokaže posamezen podatek**
+
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 **Zaslona, kje se pokaže spremembo podatek**
+
 ![img_3.png](img_3.png)
 ![img_4.png](img_4.png)
 **Zaslona, kje se pokaže izbrisan padetek**
+
 ![img_5.png](img_5.png)
 ![img_6.png](img_6.png)
 **Zaslona, kje se pokaže vnos novi padetek**
+
 ![img_7.png](img_7.png)
 ![img_8.png](img_8.png)
 **Kodo, kje je napisana funkcija getContacts**
+
 ![img_11.png](img_11.png)
 **Kodo, kje je napisana funkcija createConctact, removeConctat in editConctat**
+
 ![img_12.png](img_12.png)
 
 ### AKtiveBuddy naloga (druga aplikacija pri predmetu PORA)
 **Zasloni, kje se pokažejo vse podatke iz bazo**
+
 ![img_16.png](img_16.png)
 ![img_17.png](img_17.png)
 ![img_18.png](img_18.png)
 **Zaslon, kje je prikazan podatek v bazo**
+
 ![img_20.png](img_20.png)
 **Kodo, kje je napisana funkcija addLocation**
+
 ![img_13.png](img_13.png)
 **Kodo, kje je napisana funkcija getAllFitnessLocations**
+
 ![img_14.png](img_14.png)
 **Kodo, kje je napisana funkcija addFitness**
+
 ![img_15.png](img_15.png)
 
 ### Google Console Firebase + statistika
+
 ![img_21.png](img_21.png)
 ![img_22.png](img_22.png)
 ![img_23.png](img_23.png)
