@@ -63,6 +63,7 @@ Na spodnji sliki je prikazano, kako sem uporabila to bazo, poleg tega sem predst
 **Zaslon, kje se pokažejo vse podatke iz bazo**
 
 ![img.png](img.png)
+
 **Zaslona, kje se pokaže posamezen podatek**
 
 ![img_1.png](img_1.png)
@@ -82,6 +83,7 @@ Na spodnji sliki je prikazano, kako sem uporabila to bazo, poleg tega sem predst
 **Kodo, kje je napisana funkcija getContacts**
 
 ![img_11.png](img_11.png)
+
 **Kodo, kje je napisana funkcija createConctact, removeConctat in editConctat**
 
 ![img_12.png](img_12.png)
@@ -92,15 +94,18 @@ Na spodnji sliki je prikazano, kako sem uporabila to bazo, poleg tega sem predst
 ![img_16.png](img_16.png)
 ![img_17.png](img_17.png)
 ![img_18.png](img_18.png)
+
 **Zaslon, kje je prikazan podatek v bazo**
 
 ![img_20.png](img_20.png)
 **Kodo, kje je napisana funkcija addLocation**
 
 ![img_13.png](img_13.png)
+
 **Kodo, kje je napisana funkcija getAllFitnessLocations**
 
 ![img_14.png](img_14.png)
+
 **Kodo, kje je napisana funkcija addFitness**
 
 ![img_15.png](img_15.png)
